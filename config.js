@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94713106474', '𝘚𝘈𝘊𝘏𝘐𝘛𝘏', true],
-  ['94762537450', '𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈', true], 
+  ['94715485468', 'Kalum S.Vidu..', true],
+  ['+94756917921', 'ThpaXmodz', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['+94704274987','+94704274987'] 
-global.prems = ['+94704274987', '+94704274987', '+94704274987']
-global.allowed = ['+94704274987', '+94704274987', '+94704274987']
+global.mods = ['+94715485468','+94758322952'] 
+global.prems = ['+94715485468', '+94758322952', '+94756917921']
+global.allowed = ['+94715485468', '+94758322952', '+94756917921']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -57,8 +57,8 @@ global.menuvid = 'https://telegra.ph/Hi-12-11-189'
 global.igfg = '\n\n' 
 global.dygp = ''
 global.fgsc = 'https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3' 
-global.fgyt = 'https://youtube.com/@senuwamod'
-global.fgpyp = 'https://youtube.com/@senuwamod'
+global.fgyt = 'https://youtube.com/@TPX_MODZ?si=3_dJHX4AFqsPzVF_'
+global.fgpyp = 'https://youtube.com/@TPX_MODZ?si=3_dJHX4AFqsPzVF_'
 global.fglog = 'https://raw.githubusercontent.com/black/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
